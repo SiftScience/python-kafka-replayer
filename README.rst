@@ -2,6 +2,9 @@
 Python Kafka Replayer
 *********************
 
+.. image:: https://circleci.com/gh/SiftScience/python-kafka-replayer/tree/master.svg?style=svg
+    :target: https://circleci.com/gh/SiftScience/python-kafka-replayer/tree/master
+
 kafka_replayer is a library that helps consume time ranges of messages from Kafka topics. While the
 standard Kafka consumer API allows seeking to a specific offset and replaying from there, using
 offsets as the replay abstraction is cumbersome and potentially error-prone. This library does the
