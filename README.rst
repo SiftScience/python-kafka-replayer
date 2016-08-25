@@ -14,7 +14,7 @@ Installing
 ==========
 .. code-block:: bash
 
-    $ pip install python-kafka-replayer
+    $ pip install kafka_replayer
 
 =====
 Using
